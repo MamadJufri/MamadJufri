@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MamadJufri
+- 👋 Hi, I’m @MamadIdrus
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning drawing
 - 💞️ I’m looking to collaborate on Youtube
-- 📫 How to reach me in Facebook?
+- 📫 How to reach me in Postmail?
 
 <!---
 MamadJufri/MamadJufri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
