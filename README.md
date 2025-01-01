@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MamadIdrus
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning drawing
-- 💞️ I’m looking to collaborate on Youtube
+- 👋 Hi, I’m Mamad
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning NLP
 - 📫 How to reach me in Postmail?
 
 <!---
